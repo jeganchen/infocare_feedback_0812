@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-Email at support@freescout.net
+Email at help@infocare.org.cn

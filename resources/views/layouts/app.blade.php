@@ -62,7 +62,7 @@
                             </a>
                         @else
                             <a class="navbar-brand" href="{{ route('dashboard') }}" title="{{ __('Dashboard') }}">
-                                <img src="@filter('layout.header_logo', asset('img/logo-brand.svg'))" height="100%" alt="" />
+                                <img src="@filter('layout.header_logo', asset('img/logo-brand.png'))" height="100%" alt="" />
                             </a>
                         @endif
                     </div>

@@ -18,7 +18,7 @@ return [
     | or any other location as required by the application or its packages.
     */
 
-    'version' => '1.8.147',
+    'version' => '1.0.0',
 
     /*
     |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ return [
     |
     */
 
-    'name' => 'FreeScout',
+    'name' => 'Feedback',
 
     /*
     |--------------------------------------------------------------------------
@@ -158,14 +158,14 @@ return [
     | FreeScout website
     |-------------------------------------------------------------------------
     */
-    'freescout_url' => 'https://freescout.net',
+    'freescout_url' => 'https://www.infocare.org.cn/',
 
     /*
     |--------------------------------------------------------------------------
     | FreeScout API
     |-------------------------------------------------------------------------
     */
-    'freescout_api' => 'https://freescout.net/wp-json/',
+    'freescout_api' => 'https://www.infocare.org.cn/',
     'freescout_alt_api' => 'https://cdn.freescout.net/wp-json/',
 
     /*
@@ -173,14 +173,14 @@ return [
     | FreeScout repository
     |-------------------------------------------------------------------------
     */
-    'freescout_repo' => 'https://freescout.net/github',
+    'freescout_repo' => 'https://infocare.org.cn/github',
 
     /*
     |--------------------------------------------------------------------------
     | FreeScout email
     |-------------------------------------------------------------------------
     */
-    'freescout_email' => 'support@freescout.net',
+    'freescout_email' => 'help@infocare.org.cn',
 
     /*
     |--------------------------------------------------------------------------

@@ -147,7 +147,7 @@ return [
         'vendor' => 'freescout',
         'author' => [
             'name'  => 'FreeScout',
-            'email' => 'support@freescout.net',
+            'email' => 'help@infocare.org.cn',
         ],
     ],
     /*

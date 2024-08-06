@@ -1,12 +1,12 @@
 {
-    "name": "freescout-helpdesk/freescout",
-    "description": "Free self-hosted helpdesk and shared mailbox (Zendesk / Help Scout alternative)",
+    "name": "infocare-helpdesk/feedback",
+    "description": "Self-hosted helpdesk and shared mailbox (Zendesk / Help Scout alternative)",
     "keywords": ["helpdesk", "help desk", "shared mailbox"],
     "license": "AGPL-3.0",
     "authors": [
         {
-            "name": "The FreeScout Team",
-            "email": "support@freescout.net"
+            "name": "The Infocare Team",
+            "email": "help@infocare.org.cn"
         }
     ],
     "require": {

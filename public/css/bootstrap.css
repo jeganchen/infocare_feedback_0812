@@ -1378,7 +1378,7 @@ a.text-danger:focus {
 }
 .bg-primary {
   color: #fff;
-  background-color: #0078D7;
+   background-color: #043C6D;
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
@@ -3138,7 +3138,7 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-primary {
   color: #fff;
-  background-color: #0078d7;
+   background-color: #043C6D;
   border-color: #0078d7;
 }
 .btn-primary:focus,
@@ -3187,7 +3187,7 @@ fieldset[disabled] .btn-primary:focus,
 .btn-primary.disabled.focus,
 .btn-primary[disabled].focus,
 fieldset[disabled] .btn-primary.focus {
-  background-color: #0078D7;
+   background-color: #043C6D;
   border-color: #2e6da4;
 }
 .btn-primary .badge {
@@ -4122,7 +4122,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #0078D7;
+   background-color: #043C6D;
 }
 .nav-stacked > li {
   float: none;
@@ -4519,7 +4519,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default {
   /*background-color: #005689;*/
-  background-color: #0078d7;
+   background-color: #043C6D;
   border-color: #e7e7e7;
 }
 .navbar-default .navbar-brand {
@@ -4822,7 +4822,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   z-index: 3;
   color: #fff;
   cursor: default;
-  background-color: #0078D7;
+   background-color: #043C6D;
   border-color: #0078D7;
 }
 .pagination > .disabled > span,
@@ -4939,7 +4939,7 @@ a.label:focus {
   background-color: #5e5e5e;
 }
 .label-primary {
-  background-color: #0078D7;
+   background-color: #043C6D;
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
@@ -5208,7 +5208,7 @@ a.thumbnail.active {
   line-height: 20px;
   color: #fff;
   text-align: center;
-  background-color: #0078D7;
+   background-color: #043C6D;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
           box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
   -webkit-transition: width .6s ease;
@@ -5372,7 +5372,7 @@ button.list-group-item {
 .list-group-item.active:focus {
   z-index: 2;
   color: #fff;
-  background-color: #0078D7;
+   background-color: #043C6D;
   border-color: #0078D7;
 }
 .list-group-item.active .list-group-item-heading,
@@ -5777,7 +5777,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-primary > .panel-heading {
   color: #fff;
-  background-color: #0078D7;
+   background-color: #043C6D;
   border-color: #0078D7;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
