@@ -165,7 +165,7 @@ return [
     | FreeScout API
     |-------------------------------------------------------------------------
     */
-    'freescout_api' => 'https://www.infocare.org.cn/',
+    'freescout_api' => 'https://freescout.net/wp-json/',
     'freescout_alt_api' => 'https://cdn.freescout.net/wp-json/',
 
     /*
@@ -173,7 +173,7 @@ return [
     | FreeScout repository
     |-------------------------------------------------------------------------
     */
-    'freescout_repo' => 'https://infocare.org.cn/github',
+    'freescout_repo' => 'https://freescout.net/github',
 
     /*
     |--------------------------------------------------------------------------
