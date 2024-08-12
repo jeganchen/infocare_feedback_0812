@@ -332,7 +332,7 @@ class SystemController extends Controller
 
                     // Artisan::output()
                 } catch (\Exception $e) {
-                    $response['msg'] = __('Error occurred. Please try again or try another :%a_start%update method:%a_end%', ['%a_start%' => '<a href="'.config('app.freescout_url').'/docs/update/" target="_blank">', '%a_end%' => '</a>']);
+                    $response['msg'] = __('Error occurred. Please try again or try another :%a_start%update method:%a_end%', ['%a_start%' => '<a href="'.config('app.infocare_url').'/docs/update/" target="_blank">', '%a_end%' => '</a>']);
                     $response['msg'] .= '<br/><br/>'.$e->getMessage();
 
                     \Helper::logException($e);

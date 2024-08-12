@@ -21,7 +21,7 @@
     {{-- Footer --}}
     @slot('footer')
         @component('mail::footer')
-            &copy; {{ date('Y') }} <a href="{{ \Config::get('app.freescout_url') }}" style="border: 0; color: #8c93a0; text-decoration: underline">{{ \Config::get('app.name') }}</a> — {{ __('Powered by Infocare') }}
+            &copy; {{ date('Y') }} <a href="{{ \Config::get('app.infocare_url') }}" style="border: 0; color: #8c93a0; text-decoration: underline">{{ \Config::get('app.name') }}</a> — {{ __('Powered by Infocare') }}
         @endcomponent
     @endslot
 @endcomponent

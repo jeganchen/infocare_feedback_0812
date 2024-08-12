@@ -158,7 +158,8 @@ return [
     | FreeScout website
     |-------------------------------------------------------------------------
     */
-    'freescout_url' => 'https://www.infocare.org.cn/',
+    'freescout_url' => 'https://freescout.net/',
+    'infocare_url' => 'https://www.infocare.org.cn/',
 
     /*
     |--------------------------------------------------------------------------
